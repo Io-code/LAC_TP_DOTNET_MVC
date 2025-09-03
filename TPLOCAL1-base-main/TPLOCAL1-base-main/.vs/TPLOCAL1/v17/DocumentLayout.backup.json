@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\views\\shared\\avislist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:views\\shared\\avislist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\views\\shared\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:views\\shared\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\views\\shared\\validation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:views\\shared\\validation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\wwwroot\\resources\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:wwwroot\\resources\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\wwwroot\\resources\\avislist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:wwwroot\\resources\\avislist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:models\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\models\\opinion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:models\\opinion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|c:\\users\\loacc\\desktop\\hn service\\cours\\net mvc\\tp_dotnet_mvc\\lac_tp_dotnet_mvc\\tplocal1-base-main\\tplocal1-base-main\\xlmfile\\dataavis.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC8B58D0-F5E2-4A8A-9BFF-B3A019DA04B7}|TPLOCAL1.csproj|solutionrelative:xlmfile\\dataavis.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\Shared\\Form.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Form.cshtml",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\Shared\\Form.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\Form.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T19:51:50.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvisList.cshtml",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\Shared\\AvisList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\AvisList.cshtml",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\Shared\\AvisList.cshtml",
+              "RelativeToolTip": "Views\\Shared\\AvisList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T19:52:53.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.css",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\wwwroot\\resources\\Index.css",
+              "RelativeDocumentMoniker": "wwwroot\\resources\\Index.css",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\wwwroot\\resources\\Index.css",
+              "RelativeToolTip": "wwwroot\\resources\\Index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-26T12:20:22.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T08:20:55.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvisList.css",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\wwwroot\\resources\\AvisList.css",
+              "RelativeDocumentMoniker": "wwwroot\\resources\\AvisList.css",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\wwwroot\\resources\\AvisList.css",
+              "RelativeToolTip": "wwwroot\\resources\\AvisList.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-01T08:55:17.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validation.cshtml",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\Shared\\Validation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Validation.cshtml",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\Shared\\Validation.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\Validation.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T09:00:19.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T14:43:58.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormModel.cs",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Models\\FormModel.cs",
+              "RelativeDocumentMoniker": "Models\\FormModel.cs",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Models\\FormModel.cs",
+              "RelativeToolTip": "Models\\FormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:31:05.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:13:02.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataAvis.xml",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\XlmFile\\DataAvis.xml",
+              "RelativeDocumentMoniker": "XlmFile\\DataAvis.xml",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\XlmFile\\DataAvis.xml",
+              "RelativeToolTip": "XlmFile\\DataAvis.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-25T14:41:55.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Opinion.cs",
+              "DocumentMoniker": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Models\\Opinion.cs",
+              "RelativeDocumentMoniker": "Models\\Opinion.cs",
+              "ToolTip": "C:\\Users\\loacc\\Desktop\\HN Service\\Cours\\NET MVC\\TP_DOTNET_MVC\\LAC_TP_DOTNET_MVC\\TPLOCAL1-base-main\\TPLOCAL1-base-main\\Models\\Opinion.cs",
+              "RelativeToolTip": "Models\\Opinion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:31:11.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

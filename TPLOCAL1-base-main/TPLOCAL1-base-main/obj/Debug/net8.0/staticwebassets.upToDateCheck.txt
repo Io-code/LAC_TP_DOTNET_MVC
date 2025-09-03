@@ -1,0 +1,3 @@
+wwwroot\resources\AvisList.css
+wwwroot\resources\GroupeHN.png
+wwwroot\resources\Index.css

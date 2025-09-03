@@ -45,5 +45,28 @@ namespace TPLOCAL1.Controllers
             return null;
 
         }
+
+        [HttpPost]
+        public ActionResult ValidationForm(FormModel model)
+        {
+            /*if (!ModelState.IsValid)
+            {
+                return View("Form", model); 
+            }*/ 
+
+            return View("Validation", model); 
+        }
+
+        private readonly IWebHostEnvironment _env;
+        public HomeController(IWebHostEnvironment env) => _env = env;
+        [HttpGet]
+        public IActionResult AvisList()
+        {
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "XlmFile", "DataAvis.xml");
+            OpinionList repo = new OpinionList();
+            var opinions = repo.GetAvis(filePath);
+
+            return View(opinions);
+        }
     }
 }

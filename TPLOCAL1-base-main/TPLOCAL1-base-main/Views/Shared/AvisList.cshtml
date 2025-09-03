@@ -1,0 +1,51 @@
+﻿@model IEnumerable<TPLOCAL1.Models.Opinion>
+
+@{
+    ViewData["Title"] = "Avis List";
+}
+<head>
+    <title> HN - TP LOCAL </title>
+    <link rel="stylesheet" href="~/resources/AvisList.css" />
+</head>
+
+<header>
+    <img src="~/resources/GroupeHN.png" class="image" alt="Logo HN" />
+    <h1>Liste des avis</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="/Home/Index">Accueil</a></li>
+        <li><a href="/Home/Index/Form">Formulaire</a></li>
+    </ul>
+</nav>
+
+  <section>
+    <table class="table-avis" border="1" cellpadding="5" cellspacing="5">
+        <thead>
+            <tr>
+                <th colspan="3">Liste</th>
+            </tr>
+            <tr>
+                <th>Nom</th>
+                <th>Prénom</th>
+                <th>Avis donné</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                var estOui = item.OpinionGiven?.Trim().ToUpper() == "O";
+
+                <tr>
+                    <td>@item.LastName</td>
+                    <td>@item.FirstName</td>
+                    <td class="@(estOui ? "avis-oui" : "avis-non")">
+                        @(estOui ? "Oui" : "Non")
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>
+
